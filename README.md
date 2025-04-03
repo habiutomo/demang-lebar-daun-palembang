@@ -2,6 +2,8 @@
 
 Official website for Kelurahan Demang Lebar Daun, Palembang, Indonesia. This website serves as an information portal for the local community with sections for profile information, services, news, gallery, and contact details.
 
+![alt text](1.png)
+
 ## Overview
 
 This project is a full-stack web application built with:
@@ -83,3 +85,5 @@ The website is primarily in Indonesian to serve the local community of Palembang
 ## License
 
 © Kelurahan Demang Lebar Daun. All rights reserved.
+
+habizinnia@gmail.com
